@@ -1,2 +1,6 @@
 # hello-world
-Remember the usage of GIT and hope I can come along with it.
+
+Hi There!
+
+yujinM here, I like something sour.
+I've had squid ink spaghetti and find them far superior to others.
